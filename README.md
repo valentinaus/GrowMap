@@ -11,6 +11,8 @@ Permitir a los colaboradores de la empresa cliente conocer su ruta de crecimient
 - Aplicación online de Figma
 - Ilustrator 2020
 
+## Uso
+Si deseas probar el prototipo ingresa al figma: https://www.figma.com/proto/tqAcIeT1zAlbIJPsMgQPyb/Prototipo-de-alta-Fidelidad-GrowMap?node-id=864%3A8504&scaling=scale-down-width
 ## Proceso
 
 Para el desarrollo de este proyecto se utilizó una problemática planteada por una empresa de desarrollo de Software, la cual fue la siguiente:
