@@ -88,13 +88,38 @@ El sistema propuesto consistirá en la implementación de un sitio web desplegab
 ##
 ### Inicio de sesión
 ![1](https://user-images.githubusercontent.com/42383401/111051569-0904dc00-8422-11eb-8607-b3afe0ddc951.PNG)
-La figura presenta un diseño preliminar de la interfaz de iniciar sesión para colaboradores, líderes, gestión humana y CEO. En virtud de lo anterior, se deberá ingresar el correo empresarial y la contraseña otorgada por la empresa ****.
+
+La figura presenta un diseño preliminar (prototipo de baja fidelidad) de la interfaz de iniciar sesión para colaboradores, líderes, gestión humana y CEO. En virtud de lo anterior, se deberá ingresar el correo empresarial y la contraseña otorgada por la empresa ****.
 
 ![2](https://user-images.githubusercontent.com/42383401/111051575-1752f800-8422-11eb-8373-281db65d407e.PNG)
+
 La figura ostenta un diseño preliminar de la interfaz del colaborador, donde se contempla información sobre su perfil, el progreso de su crecimiento profesional y las misiones que debe realizar en conjunto con las recompensas que obtendrá. Paralelamente, mediante una gráfica con mayor detalle conseguirá datos acerca del estado de la ruta profesional que estará construyendo dentro de la empresa.  
 
 ![3](https://user-images.githubusercontent.com/42383401/111051583-2174f680-8422-11eb-86d6-68f6f613366d.PNG)
+
 En la figura se presenta un diseño preliminar de la interfaz del líder, el cual podrá visualizar la ruta de crecimiento de cada uno de los colaboradores. Además de asignar misiones según el área de departamento que se encuentre el colaborador. Finalmente, puede consultar el desempeño de cualquier colaborador. 
 
 ![4](https://user-images.githubusercontent.com/42383401/111051589-2d60b880-8422-11eb-8bee-003b61bb3d79.PNG)
+
 La figura 14.0 presenta un wireframe de la interfaz del perfil de cualquier usuario que utilice el sistema. Ciertamente, aparece información acerca del usuario, las tareas a cumplir y cumplidas, las recompensas al finalizar cada misión y comentarios que puede facilitar. Por último, está el contenido de clasificatorias relacionado a la gamificación y los certificados de grados que pudo obtener el usuario. 
+
+##
+### Control de prototipado
+Después de mostrar al cliente el prototipo, el equipo de trabajo realiza correcciones y perfecciona el diseño para poder realizar el control de prototipado. Esto por medio de técnicas de evaluación de usabilidad, las cuales fueron:
+
+- Experimentos Formales:Inicialmente se escogió experimentos formales, ya que sustentado permite recolectar datos objetivos, primarios y cuantitativos de distintos niveles de complejidad , además de que es posible realizar un análisis estadístico de las tareas que lleva a cabo el usuario tomando en cuenta variables cuantitativas como los tiempos que tomaron para realizar las acciones,etc. Finalmente  este método es uno de los más indicados a utilizar en una fase de pruebas finales, ya que al poseer un prototipo de alta fidelidad, el método estará orientado a encontrar problemas de usabilidad respecto a las tareas que se establezcan basados en los tiempos de respuesta que tengan las personas evaluadas. Es necesario establecer que los experimentos formales se dividen en tres fases, una primera fase de pre-test donde se requiere tomar información del usuario y de sus habilidades con las herramientas tecnológicas, luego se lleva a cabo la evaluación donde se determinarán las tareas a realizar y finalmente se requiere de un cuestionario post-test en el cual se evidencie el grado de satisfacción o de insatisfacción con la plataforma- para ello se hizo uso de un método de evaluación cuantitativo conocido como System USability Scale (SUS).
+
+-System Usability Scale (SUS): Según Brooke [10] es un método donde se trata de medir la percepción subjetiva del usuario respecto a la usabilidad de un sistema. Este cuestionario posee diez preguntas que se alternan, es un método rápido,pero a su vez se debe leer detenidamente para saber si se está de acuerdo o desacuerdo con las preguntas presentadas. Al finalizar esta prueba haciendo uso de la escala de Likert [5] se determina una puntuación donde las preguntas positivas tendrán una contribución del valor de la escala menos 1 y las preguntas negativas tendrán una contribución de 5 menos el valor de la escala, al finalizar estos resultados se suman y se multiplica por 2.5, de esta manera se obtiene el valor global del SUS. Finalmente con este valor se puede hacer uso del SUS para entender en la escala del 0 al 100 respecto a qué tan buena es la usabilidad de la plataforma, no obstante cabe resaltar que esto no representa el porcentaje de usabilidad.
+
+Para este proceso se realizan tres iteraciones hasta obtener el prototipo de alta fidelidad final que se le muestra al cliente:
+
+##
+### Prototipo de alta fidelidad
+
+### Inicio de sesión
+![1](https://user-images.githubusercontent.com/42383401/111051805-ca702100-8423-11eb-97fc-e679504f8f70.PNG)
+
+### Home
+![2](https://user-images.githubusercontent.com/42383401/111051812-dfe54b00-8423-11eb-85e8-2bb6a98f0bcc.PNG)
+
+
