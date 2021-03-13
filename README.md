@@ -109,7 +109,7 @@ Después de mostrar al cliente el prototipo, el equipo de trabajo realiza correc
 
 - Experimentos Formales:Inicialmente se escogió experimentos formales, ya que sustentado permite recolectar datos objetivos, primarios y cuantitativos de distintos niveles de complejidad , además de que es posible realizar un análisis estadístico de las tareas que lleva a cabo el usuario tomando en cuenta variables cuantitativas como los tiempos que tomaron para realizar las acciones,etc. Finalmente  este método es uno de los más indicados a utilizar en una fase de pruebas finales, ya que al poseer un prototipo de alta fidelidad, el método estará orientado a encontrar problemas de usabilidad respecto a las tareas que se establezcan basados en los tiempos de respuesta que tengan las personas evaluadas. Es necesario establecer que los experimentos formales se dividen en tres fases, una primera fase de pre-test donde se requiere tomar información del usuario y de sus habilidades con las herramientas tecnológicas, luego se lleva a cabo la evaluación donde se determinarán las tareas a realizar y finalmente se requiere de un cuestionario post-test en el cual se evidencie el grado de satisfacción o de insatisfacción con la plataforma- para ello se hizo uso de un método de evaluación cuantitativo conocido como System USability Scale (SUS).
 
--System Usability Scale (SUS): Según Brooke [10] es un método donde se trata de medir la percepción subjetiva del usuario respecto a la usabilidad de un sistema. Este cuestionario posee diez preguntas que se alternan, es un método rápido,pero a su vez se debe leer detenidamente para saber si se está de acuerdo o desacuerdo con las preguntas presentadas. Al finalizar esta prueba haciendo uso de la escala de Likert [5] se determina una puntuación donde las preguntas positivas tendrán una contribución del valor de la escala menos 1 y las preguntas negativas tendrán una contribución de 5 menos el valor de la escala, al finalizar estos resultados se suman y se multiplica por 2.5, de esta manera se obtiene el valor global del SUS. Finalmente con este valor se puede hacer uso del SUS para entender en la escala del 0 al 100 respecto a qué tan buena es la usabilidad de la plataforma, no obstante cabe resaltar que esto no representa el porcentaje de usabilidad.
+- System Usability Scale (SUS): Según Brooke [10] es un método donde se trata de medir la percepción subjetiva del usuario respecto a la usabilidad de un sistema. Este cuestionario posee diez preguntas que se alternan, es un método rápido,pero a su vez se debe leer detenidamente para saber si se está de acuerdo o desacuerdo con las preguntas presentadas. Al finalizar esta prueba haciendo uso de la escala de Likert [5] se determina una puntuación donde las preguntas positivas tendrán una contribución del valor de la escala menos 1 y las preguntas negativas tendrán una contribución de 5 menos el valor de la escala, al finalizar estos resultados se suman y se multiplica por 2.5, de esta manera se obtiene el valor global del SUS. Finalmente con este valor se puede hacer uso del SUS para entender en la escala del 0 al 100 respecto a qué tan buena es la usabilidad de la plataforma, no obstante cabe resaltar que esto no representa el porcentaje de usabilidad.
 
 Para este proceso se realizan tres iteraciones hasta obtener el prototipo de alta fidelidad final que se le muestra al cliente:
 
@@ -119,7 +119,32 @@ Para este proceso se realizan tres iteraciones hasta obtener el prototipo de alt
 ### Inicio de sesión
 ![1](https://user-images.githubusercontent.com/42383401/111051805-ca702100-8423-11eb-97fc-e679504f8f70.PNG)
 
+En la figura se presenta la interfaz de inicio de sesión de los colaboradores
+
 ### Home
 ![2](https://user-images.githubusercontent.com/42383401/111051812-dfe54b00-8423-11eb-85e8-2bb6a98f0bcc.PNG)
 
+En la figura se presenta la interfaz de inicio donde el colaborador encontrará información general sobre su ruta de crecimiento. Además, podrá visualizar las tareas que le han sido asignadas durante la semana. Añadiendo a lo anterior, la posibilidad de realizar cursos recomendados por la aplicación. Finalmente, lograría observar el top de clasificatorias. 
+
+### Mis misiones
+![3](https://user-images.githubusercontent.com/42383401/111051840-01463700-8424-11eb-8da6-c0f0067d097e.PNG)
+
+En la figura se presentan las misiones que tiene asignado los colaboradores de departamento. Además de los retos que un líder puede otorgar para contribuir en el desarrollo del colaborador. Ciertamente cada misión ostenta información detallada principal como el nombre, una breve descripción, las monedas y puntos de clasificatorias a obtener y la fecha límite de entrega. 
+
+### Proyecto
+![4](https://user-images.githubusercontent.com/42383401/111051848-07d4ae80-8424-11eb-977e-b056c489a5d8.PNG)
+
+En la figura se presenta la interfaz donde el colaborador lograría visualizar con mayor detalle la información contemplada en una misión asignada. Adicionalmente, los integrantes que participaran en el desarrollo de esta. 
+
+### Clasificatorias
+![5](https://user-images.githubusercontent.com/42383401/111051937-da3c3500-8424-11eb-8b47-b4a378a511b2.PNG)
+
+La figura presenta la interfaz de clasificatorias, la cual no tuvo cambios significativos más que en cuanto a diseño y paletas de colores.
+
+### Ruta de crecimiento
+![rutadecrecim](https://user-images.githubusercontent.com/42383401/111051967-f50ea980-8424-11eb-9e27-d6e4840d8e8b.PNG)
+
+La figura presenta la interfaz de ruta de crecimiento. De igual manera que la interfaz mostrada anteriormente, esta no tuvo cambios en cuanto a la funcionalidad sino en el diseño de la interfaz. Con lo anterior, el colaborador puede visualizar los cargos que alcanzó como los que alcanzará posteriormente. Paralelamente, se despliegan los lineamientos para los cargos. 
+
+### Ruta de crecimiento
 
