@@ -6,7 +6,10 @@ GrowMap es un proyecto centrado en la Interacción Humano-Computador, UX y UI, e
 
 Permitir a los colaboradores de la empresa cliente conocer su ruta de crecimiento profesional, así como las competencias y objetivos que cada uno debe cumplir para lograr escalar o ascender en la misma.
 
-## Herramientas
+## Especificaciones
 
 - Aplicación online de Figma
+- Ilustrator 2020
+
+
 
