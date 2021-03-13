@@ -9,7 +9,7 @@ Permitir a los colaboradores de la empresa cliente conocer su ruta de crecimient
 ## Especificaciones
 
 - Aplicación online de Figma
-- Ilustrator 2020
+- Adobe Illustrator 2020
 
 ## Uso
 Si deseas probar el prototipo ingresa al figma: https://www.figma.com/proto/tqAcIeT1zAlbIJPsMgQPyb/Prototipo-de-alta-Fidelidad-GrowMap?node-id=864%3A8504&scaling=scale-down-width
