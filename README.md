@@ -117,34 +117,75 @@ Para este proceso se realizan tres iteraciones hasta obtener el prototipo de alt
 ### Prototipo de alta fidelidad
 
 ### Inicio de sesión
-![1](https://user-images.githubusercontent.com/42383401/111051805-ca702100-8423-11eb-97fc-e679504f8f70.PNG)
-
 En la figura se presenta la interfaz de inicio de sesión de los colaboradores
 
-### Home
-![2](https://user-images.githubusercontent.com/42383401/111051812-dfe54b00-8423-11eb-85e8-2bb6a98f0bcc.PNG)
+![1](https://user-images.githubusercontent.com/42383401/111051805-ca702100-8423-11eb-97fc-e679504f8f70.PNG)
 
+
+
+### Home
 En la figura se presenta la interfaz de inicio donde el colaborador encontrará información general sobre su ruta de crecimiento. Además, podrá visualizar las tareas que le han sido asignadas durante la semana. Añadiendo a lo anterior, la posibilidad de realizar cursos recomendados por la aplicación. Finalmente, lograría observar el top de clasificatorias. 
 
-### Mis misiones
-![3](https://user-images.githubusercontent.com/42383401/111051840-01463700-8424-11eb-8da6-c0f0067d097e.PNG)
+![iniicofinal](https://user-images.githubusercontent.com/42383401/111052078-e07ee100-8425-11eb-92cd-1b2c9915416f.PNG)
 
+
+
+### Mis misiones
 En la figura se presentan las misiones que tiene asignado los colaboradores de departamento. Además de los retos que un líder puede otorgar para contribuir en el desarrollo del colaborador. Ciertamente cada misión ostenta información detallada principal como el nombre, una breve descripción, las monedas y puntos de clasificatorias a obtener y la fecha límite de entrega. 
 
-### Proyecto
-![4](https://user-images.githubusercontent.com/42383401/111051848-07d4ae80-8424-11eb-977e-b056c489a5d8.PNG)
+![3](https://user-images.githubusercontent.com/42383401/111051840-01463700-8424-11eb-8da6-c0f0067d097e.PNG)
 
+
+
+### Proyecto
 En la figura se presenta la interfaz donde el colaborador lograría visualizar con mayor detalle la información contemplada en una misión asignada. Adicionalmente, los integrantes que participaran en el desarrollo de esta. 
 
-### Clasificatorias
-![5](https://user-images.githubusercontent.com/42383401/111051937-da3c3500-8424-11eb-8b47-b4a378a511b2.PNG)
+![4](https://user-images.githubusercontent.com/42383401/111051848-07d4ae80-8424-11eb-977e-b056c489a5d8.PNG)
 
+
+
+### Clasificatorias
 La figura presenta la interfaz de clasificatorias, la cual no tuvo cambios significativos más que en cuanto a diseño y paletas de colores.
 
-### Ruta de crecimiento
-![rutadecrecim](https://user-images.githubusercontent.com/42383401/111051967-f50ea980-8424-11eb-9e27-d6e4840d8e8b.PNG)
+![5](https://user-images.githubusercontent.com/42383401/111051937-da3c3500-8424-11eb-8b47-b4a378a511b2.PNG)
 
+
+
+### Ruta de crecimiento
 La figura presenta la interfaz de ruta de crecimiento. De igual manera que la interfaz mostrada anteriormente, esta no tuvo cambios en cuanto a la funcionalidad sino en el diseño de la interfaz. Con lo anterior, el colaborador puede visualizar los cargos que alcanzó como los que alcanzará posteriormente. Paralelamente, se despliegan los lineamientos para los cargos. 
 
-### Ruta de crecimiento
+![rutadecrecim](https://user-images.githubusercontent.com/42383401/111051967-f50ea980-8424-11eb-9e27-d6e4840d8e8b.PNG)
+
+
+
+### Tienda
+La figura presenta la interfaz donde el colaborador puede comprar nuevos avatares a partir de las monedas conseguidas al finalizar misiones. Adicionalmente, el cambio que se realizó fue en los tipos de avatares, las cuales son: bronce, plata, oro y diamante. En ese mismo orden de ideas, se ofrece una retroalimentación sobre la cantidad de avatares que conserva el colaborador. 
+
+![tienda](https://user-images.githubusercontent.com/42383401/111051995-37d08180-8425-11eb-9875-8e089dd8b628.PNG)
+
+
+### Habilidades
+La figura presenta la interfaz donde el colaborador como el líder pueden visualizar información sobre distintas habilidades que tienen adecuadamente dominadas. 
+
+![habilidades](https://user-images.githubusercontent.com/42383401/111052003-4d45ab80-8425-11eb-83d2-0b2dc640fce8.PNG)
+
+### Mi perfil
+La figura presenta la interfaz del perfil del colaborador, la cual no presentó cambios en cuanto a funcionalidad ya que en las evaluaciones de usabilidad realizadas con los usuarios objetivo no se presentaron observaciones negativas, pero sí se realizaron cambios en cuanto al diseño, paleta, y diseño de logos.
+
+![miperfil](https://user-images.githubusercontent.com/42383401/111052020-5d5d8b00-8425-11eb-877a-d882b0a50af2.PNG)
+
+
+### Estadísticas de Habilidades (Líderes)
+En la figura 1 se presenta la interfaz de estadísticas de las habilidades antes de que se realizará la primera iteración. Esta no tuvo cambios de funcionalidad ni organización de la información, sino de la paleta de colores y los iconos y avatares que se utilizaron. Posterior a la iteración, en la figura 2 se presentan las modificaciones de tal forma que las habilidades generales de cada colaborador logren ser entendibles a través de iconos y valores numéricos.
+
+![estadisticas](https://user-images.githubusercontent.com/42383401/111052046-93027400-8425-11eb-8cdb-593884058e02.PNG)
+
+![estadisticas3](https://user-images.githubusercontent.com/42383401/111052033-7f570d80-8425-11eb-949c-c0b889d088cb.PNG)
+
+
+### Configuración de Insignias y Avatares (Líderes)
+La figura presenta la configuración de insignias y avatares. Al igual que la interfaz anterior, esta no presentó cambios en las funcionalidades ni organización de la información sino en la paleta de colores, la iconografía y los estilos de los avatares.
+
+![isnignicas](https://user-images.githubusercontent.com/42383401/111052050-a9103480-8425-11eb-8c1c-c89b058824c3.PNG)
+
 
