@@ -19,7 +19,7 @@ Para el desarrollo de este proyecto se utilizó una problemática planteada por 
 
 "Para los colaboradores de la empresa es importante conocer su estatus y conocer la ruta de crecimiento profesional dentro de la misma, por ejemplo si un colaborador es un desarrollador junior poder conocer cuáles son las condiciones y los requisitos para llegar a ser un desarrollador senior. Por tal razón, el CEO, la líder de Talento Humano y los líderes de área de la empresa desean iniciar el proyecto Plan Carrera que le permita a los colaboradores a través de técnicas de gamificación alcanzar los objetivos propuestos por la empresa y así lograr un crecimiento en su carrera laboral. Lo esperado es que dicho sistema aporte valor a los usuarios y se ajuste a tendencias actuales de diseño."
 
-A partir de lo anterior, el equipo de trabajo se puso en la tarea de adquirir información detalla del problema por medio de entrevistas y cuestionarios. Con esa información se construyó el árbol del problema, el planteamiento de la problemática y el perfil de usuario.
+A partir de lo anterior, el equipo de trabajo se puso en la tarea de adquirir información detallada del problema por medio de entrevistas y cuestionarios. Con esa información se construyó el árbol del problema, el planteamiento de la problemática y el perfil de usuario.
 
 ### Árbol del problema
 ![arbol](https://user-images.githubusercontent.com/42383401/111051011-0f915480-841e-11eb-9e7b-7edcd6b60922.png)
