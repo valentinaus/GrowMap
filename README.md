@@ -1,4 +1,4 @@
-# Grow Map
+# GrowMap
 
 GrowMap es un proyecto centrado en la Interacción Humano-Computador, UX y UI, es un prototipo de alta fidelidad de una aplicación web para empresas que busca ayudar a los empleados a conocer su ruta de crecimiento profesional, su cargo, los futuros cargos a los que puede aplicar, así como las diferentes tareas que debe llevar a cabo a lo largo de la semana, todo esto por medio de técnicas de gamificación que hagan más interesante la experiencia.
 
